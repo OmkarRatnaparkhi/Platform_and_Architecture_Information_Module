@@ -16,3 +16,12 @@ Boot_Info() : Display boot time of machine. <br/>
 CPU_Info() : Display all information of CPU. <br/>
 RAM_Usage() : Display information of RAM usage. <br/>
 Disk_Info() : Display information of Hard disk. <br/>
+
+# Output :- 
+<p align="center">
+  <img src="https://github.com/OmkarRatnaparkhi/Platform_and_Architecture_Information_Module/blob/main/Assets/output1.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/OmkarRatnaparkhi/Platform_and_Architecture_Information_Module/blob/main/Assets/output2.png">
+</p>
