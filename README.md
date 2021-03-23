@@ -9,7 +9,7 @@
 - Hence, this library is used for system monitoring, profiling, limiting process resources and the management of running processes. 
 - It is supported in Python versions 2.6, 2.7 and 3.4+.
 - To install pip use command : python -m pip install psutil
-- This User defined module contains below methods as:- 
+- This User defined module contains below methods as :-  <br/>
 CPU_Info_OS() : Displays information of CPU depending on OS. <br/>
 Platform_Info() : Display information of Platform (Operating System). <br/>
 Boot_Info() : Display boot time of machine. <br/>
