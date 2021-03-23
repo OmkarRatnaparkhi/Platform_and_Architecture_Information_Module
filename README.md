@@ -10,9 +10,9 @@
 - It is supported in Python versions 2.6, 2.7 and 3.4+.
 - To install pip use command : python -m pip install psutil
 - This User defined module contains below methods as:- 
-CPU_Info_OS() : Displays information of CPU depending on OS
-Platform_Info() : Display information of Platform (Operating System)
-Boot_Info() : Display boot time of machine
-CPU_Info() : Display all information of CPU
-RAM_Usage() : Display information of RAM usage
-Disk_Info() : Display information of Hard disk
+CPU_Info_OS() : Displays information of CPU depending on OS. <br/>
+Platform_Info() : Display information of Platform (Operating System). <br/>
+Boot_Info() : Display boot time of machine. <br/>
+CPU_Info() : Display all information of CPU. <br/>
+RAM_Usage() : Display information of RAM usage. <br/>
+Disk_Info() : Display information of Hard disk. <br/>
